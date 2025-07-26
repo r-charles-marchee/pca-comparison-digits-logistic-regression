@@ -33,7 +33,8 @@ This software contributes to the community by offering a minimal yet effective d
 Jain (2010) provides an extensive overview of clustering methods and their applications, highlighting the importance and versatility of K-Means in data analysis. Garey and Johnson (1979) lay the theoretical foundations for NP-completeness, establishing the computational hardness of many clustering and segmentation problems. Pedregosa et al. (2011) describe the Scikit-learn library, which offers efficient implementations of clustering algorithms and utilities for data generation, forming the backbone of this software’s implementation.
 
 ## Acknowledgements  
-We gratefully acknowledge the contributions of the Scikit-learn development team and the Matplotlib community for their open-source tools that enable the development and visualization of machine learning algorithms in Python. Their work greatly facilitated the creation of this software.
+The contributions of the Scikit-learn development team and the Matplotlib community are gratefully acknowledged for their open-source tools that enabled the development and visualization of machine learning algorithms in Python. Their work significantly supported the creation of this software.
+
 
 ---
 
