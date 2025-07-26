@@ -1,0 +1,1 @@
+# synthetic-image-segmentation-with-kmeans-clustering-approximation
