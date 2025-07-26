@@ -1,3 +1,14 @@
+---
+title: "Approximate Image Segmentation of Synthetic Data Using K-Means Clustering"
+authors:
+  - name: Richi Charles Marchee
+    orcid: https://orcid.org/0009-0007-2336-7162
+    affiliation: Capella University
+    email: rmarchee@capellauniversity.edu
+version: 1.0.0
+date: 2025-07-26
+---
+
 # Approximate Image Segmentation of Synthetic Data Using K-Means Clustering
 
 ## Summary  
