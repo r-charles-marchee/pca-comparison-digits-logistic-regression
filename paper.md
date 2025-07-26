@@ -12,8 +12,6 @@ repository: "https://github.com/r-charles-marchee/synthetic-image-segmentation-w
 date: 2025-07-26
 ---
 
-# Approximate Image Segmentation of Synthetic Data Using K-Means Clustering
-
 ## Summary  
 This software implements a simple Python-based approach to approximate image segmentation using the K-Means clustering algorithm. Image segmentation, the process of partitioning an image into meaningful regions, is a core problem in computer vision with many applications, including medical imaging and object detection. However, exact solutions for segmentation are often computationally intractable due to their combinatorial complexity and NP-completeness. By generating synthetic images composed of Gaussian blobs and applying K-Means to cluster pixel coordinates, this implementation demonstrates an efficient approximate solution to the segmentation task. The code is designed to be accessible and educational, providing visualization capabilities to help users intuitively understand clustering-based segmentation.
 
