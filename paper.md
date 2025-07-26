@@ -1,5 +1,5 @@
 ---
-title: "Approximate Image Segmentation of Synthetic Data Using K-Means Clustering"
+title: "PCA Comparison on Digits Dataset with Logistic Regression"
 authors:
   - name: Richi Charles Marchee
     orcid: https://orcid.org/0009-0007-2336-7162
