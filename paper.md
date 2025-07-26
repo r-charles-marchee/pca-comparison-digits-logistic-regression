@@ -6,6 +6,9 @@ authors:
     affiliation: Capella University
     email: rmarchee@capellauniversity.edu
 version: 1.0.0
+license: "Apache‑2.0"
+repository: "https://github.com/r-charles-marchee/synthetic-image-segmentation-with-kmeans-clustering-approximation"
+
 date: 2025-07-26
 ---
 
